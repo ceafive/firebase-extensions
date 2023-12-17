@@ -1,5 +1,5 @@
 {
-  "name": "custom-authentication-triggers",
+  "name": "authentication-custom-triggers",
   "scripts": {
     "lint": "eslint \"src/**/*\"",
     "lint:fix": "eslint \"src/**/*\" --fix",

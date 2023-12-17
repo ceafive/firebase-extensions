@@ -1,4 +1,4 @@
-name: custom-authentication-triggers
+name: authentication-custom-triggers
 version: 0.0.1 
 specVersion: v1beta  
 displayName: Custom Authentication Triggers
